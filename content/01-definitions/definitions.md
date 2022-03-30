@@ -21,4 +21,4 @@ It is important to start with some definitions of the terminology used in this t
 
 Figure 1 diagram below depicts the AI ecosystem and the relationship between AI, ML, Deep Learning, NLP and RPA. 
 
-![Figure 1: The AI ecosystem](../../static/images/ai-ecosystem.png)
+![Figure 1: The AI ecosystem](ai-ecosystem.png)
