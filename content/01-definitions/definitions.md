@@ -1,13 +1,13 @@
 ---
 title: "Definitions"
-icon: "ti-info"
+icon: "ti-search"
 description: "Definitions of the terminology used in this toolkit"
 type: "docs"
 ---
 
 It is important to start with some definitions of the terminology used in this toolkit.  
 
-*Data science* is broadly defined as a craft or set of activities that involves working with large amounts of data, grappling with computational problems introduced by structure, size, messiness such as missing data, and the complexity of data, while attempting to solve a real-world problem. Product-oriented data science deals with everything from the data engineering and infrastructure for data collection and logging, to privacy considerations, to decisions around what data is user-facing, how and which data will be used to inform decisions, and how the data will be built back into the product.1  
+**Data science** is broadly defined as a craft or set of activities that involves working with large amounts of data, grappling with computational problems introduced by structure, size, messiness such as missing data, and the complexity of data, while attempting to solve a real-world problem. Product-oriented data science deals with everything from the data engineering and infrastructure for data collection and logging, to privacy considerations, to decisions around what data is user-facing, how and which data will be used to inform decisions, and how the data will be built back into the product.1  
 
 **Artificial intelligence** (AI) is broadly defined as an effort to automate intellectual tasks normally performed by human beings.2 AI includes machine learning and deep learning as well as approaches that do not involve any learning. Symbolic AI, for example, is premised on the ability of programmers to hard code a sufficiently large number of rules for manipulating knowledge (this is also known as *expert systems*). Symbolic AI can serve well for logical, well-defined problems.  
 
@@ -21,4 +21,4 @@ It is important to start with some definitions of the terminology used in this t
 
 Figure 1 diagram below depicts the AI ecosystem and the relationship between AI, ML, Deep Learning, NLP and RPA. 
 
-![Figure 1: The AI ecosystem](../static/images/ai-ecosystem.png)
+![Figure 1: The AI ecosystem](../../static/images/ai-ecosystem.png)
