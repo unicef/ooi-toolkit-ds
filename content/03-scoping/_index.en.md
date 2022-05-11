@@ -5,9 +5,7 @@ description: "Deciding on the objectives of the project. What makes a good candi
 type: "docs"
 ---
 
-This toolkit will draw on considerations in data collection and processing for your data science project. 
-
-**Scoping** Scoping has to do with deciding on the objectives of the project and what makes it a good candidate for a machine learning or artificial intelligence application. Scoping can seem to be the most trivial aspect of a project, yet it involves the most fundamental part in initiating a project. There are a few questions a project team should ask before initiating a data problem: 
+**Scoping** has to do with deciding on the objectives of the project and what makes it a good candidate for a machine learning or artificial intelligence application. Scoping can seem to be the most trivial aspect of a project, yet it involves the most fundamental part in initiating a project. There are a few questions a project team should ask before initiating a data problem: 
 
 - Why is the problem important?  
 
