@@ -1,8 +1,9 @@
 ---
 title: "Data Governance"
-icon: "ti-search"
 description: "Matters of data governance"
-type: "docs"
+tags: "template"
+categories: "Data Collection and Processing"
+downloadBtn: "true"
 ---
 
 **Data governance** is a critical component of a sustainable and scalable AI project. Data governance is defined as a collection of processes, roles, policies, standards and metrics that ensure the effective and efficient use of information. Good data governance establishes processes and responsibilities ensuring data quality and security. Essentially, data governance defines who can act on the data, upon what data, in which situations and with what methods.  
