@@ -12,7 +12,9 @@ As part of our [AI for children project](https://www.unicef.org/globalinsight/fe
 The policy guidance explores AI systems, and considers the ways in which they impact children.
 
 
-## Read in full: [**unicef.org/globalinsight/reports/policy-guidance-ai-children**](https://www.unicef.org/globalinsight/reports/policy-guidance-ai-children) {#url}
+## Read in full {#url}
+
+[**unicef.org/globalinsight/reports/policy-guidance-ai-children**](https://www.unicef.org/globalinsight/reports/policy-guidance-ai-children)
 
 Drawing on the Convention on the Rights of the Child, the guidance offers nine requirements for child-centered AI:
 
